@@ -1,6 +1,6 @@
 # Antonio Fonseca — Equity Research
 
-Analista independente focado em valuation de empresas brasileiras, com especial interesse em setores regulados e intensivos em capital.
+Publico análises financeiras, gráficos e relatórios de empresas. Conteúdo apenas educacional, sem recomendações de investimento.
 
  **Objetivo profissional:** Tornar-me analista buy-side especializado em utilities e infraestrutura.
 
