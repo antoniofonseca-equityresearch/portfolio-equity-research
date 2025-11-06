@@ -7,8 +7,7 @@ Publico análises financeiras, gráficos e relatórios de empresas. Conteúdo ap
 ---
 
 ##  Competências e Ferramentas
-- Modelagem financeira (em desenvolvimento)
-- Valuation: DCF, Múltiplos, EV/RAB (setor elétrico)
+- Valuation: DCF e Múltiplos
 - Excel / Google Sheets
 - Estudo e acompanhamento do setor elétrico brasileiro
 - Publicação de relatórios autorais
