@@ -1,33 +1,20 @@
-# Antonio Fonseca — Equity Research
+#  Equity Research Portfolio - Antonio Fonseca
 
-Publico análises financeiras, gráficos e relatórios de empresas. Conteúdo apenas educacional, sem recomendações de investimento.
+**Aspirante a Analista**
 
- **Objetivo profissional:** Tornar-me analista buy-side especializado em utilities e infraestrutura.
-
----
-
-##  Competências e Ferramentas
-- Valuation: DCF e Múltiplos
-- Excel / Google Sheets
-- Estudo e acompanhamento do setor elétrico brasileiro
-- Publicação de relatórios autorais
+Portfólio com análises fundamentalistas completas, incluindo valuation por DCF, modelagem financeira e análise setorial.
 
 ---
 
-##  Filosofia de Análise
-> “Preço é o que você paga. Valor é o que você recebe.” — *Warren Buffett*
+##  Habilidades Demonstradas
+- Valuation (DCF, Multiplos)
+- Modelagem Financeira em Excel
+- Análise Setorial
+- Cálculo de WACC via CAPM
+- Análise de Sensibilidade
 
-Minha abordagem:
-- Teses baseadas em **fluxos regulatórios e geração de caixa**
-- Análise detalhada dos **drivers essenciais**  
-- Busca de **margem de segurança** no valuation
-
----
-
-### Contato
-Caso queira trocar ideias sobre o setor:
-- **Email:** antonio.lmfonseca@gmail.com
+##  Contato
+antonio.lmfonseca@gmail.com
 
 ---
-
-📝 *Este repositório será atualizado à medida que meu portfólio público de research evoluir.*
+* Disclaimer: Todas as análises possuem caráter exclusivamente educacional e não constituem recomendações de investimento.*
