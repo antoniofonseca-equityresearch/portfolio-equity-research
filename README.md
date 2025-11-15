@@ -1,20 +1,23 @@
 #  Equity Research Portfolio - Antonio Fonseca
 
-**Aspirante a Analista**
+**Aspirante a Analista | Estudante de Ciências Econômicas**
 
-Portfólio com análises fundamentalistas completas, incluindo valuation por DCF, modelagem financeira e análise setorial.
+Portfólio com análises fundamentalistas completas desenvolvidas como exercício acadêmico.
 
----
+##  Análises em Destaque
+
+### [TOTVS S.A. (TOTS3) - Software & SaaS](02-TOTVS/)  
+**Nov 2025** | **MANTER**  
+Empresa de alta qualidade, valuation esticado sem margem de segurança.
 
 ##  Habilidades Demonstradas
 - Valuation (DCF, Multiplos)
-- Modelagem Financeira em Excel
+- Modelagem Financeira
 - Análise Setorial
 - Cálculo de WACC via CAPM
-- Análise de Sensibilidade
 
 ##  Contato
 antonio.lmfonseca@gmail.com
 
 ---
-* Disclaimer: Todas as análises possuem caráter exclusivamente educacional e não constituem recomendações de investimento.*
+* AVISO: Conteúdo estritamente educacional. Não constitui recomendação de investimento.*
