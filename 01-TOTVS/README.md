@@ -15,5 +15,5 @@ Análise fundamentalista completa da TOTVS, líder brasileira em software de ges
 
 ##  Premissas do Valuation
 - WACC: 18,2%
-- Crescimento Perpétuo: 3,0%
-- Beta: 1,05 (Setor Software)
+- Crescimento Perpétuo: 3,5%
+- Beta: 0,75 (Setor Software)
