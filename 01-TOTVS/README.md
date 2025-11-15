@@ -1,9 +1,9 @@
 #  Análise TOTVS S.A. (TOTS3)
 
 **Data:** Novembro 2025  
-**Recomendação:** MANTÉM  
-**Preço-Alvo:** R$ 30,00  
-**Tese:** Empresa de alta qualidade, valuation esticado
+**Recomendação:** MANTER  
+**Preço-Alvo:** R$ 46,02  
+**Tese:** Empresa de alta qualidade, valuation sem muita margem.
 
 ##  Sobre a Análise
 Análise fundamentalista completa da TOTVS, líder brasileira em software de gestão (ERP), com transição para modelo SaaS e expansão em serviços financeiros (Techfin).
@@ -13,8 +13,7 @@ Análise fundamentalista completa da TOTVS, líder brasileira em software de ges
 - Valuation atual (P/L >35x) já embute expectativas otimistas
 - Múltiplos em linha com players globais, limitando potencial de re-rating
 
-
 ##  Premissas do Valuation
-- WACC: 12,5%
+- WACC: 18,2%
 - Crescimento Perpétuo: 3,0%
 - Beta: 1,05 (Setor Software)
