@@ -4,12 +4,6 @@
 
 Portfólio com análises fundamentalistas completas desenvolvidas como exercício acadêmico.
 
-##  Análises em Destaque
-
-### [TOTVS S.A. (TOTS3) - Software & SaaS](02-TOTVS/)  
-**Nov 2025** | **MANTER**  
-Empresa de alta qualidade, valuation esticado sem margem de segurança.
-
 ##  Habilidades Demonstradas
 - Valuation (DCF, Multiplos)
 - Modelagem Financeira
